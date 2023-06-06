@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sangeet_musicapp/static/css/main.684e85e6.css",
+    "main.css": "/sangeet_musicapp/static/css/main.230d9942.css",
     "main.js": "/sangeet_musicapp/static/js/main.be6aedd8.js",
     "static/js/787.658bc779.chunk.js": "/sangeet_musicapp/static/js/787.658bc779.chunk.js",
     "index.html": "/sangeet_musicapp/index.html",
-    "main.684e85e6.css.map": "/sangeet_musicapp/static/css/main.684e85e6.css.map",
+    "main.230d9942.css.map": "/sangeet_musicapp/static/css/main.230d9942.css.map",
     "main.be6aedd8.js.map": "/sangeet_musicapp/static/js/main.be6aedd8.js.map",
     "787.658bc779.chunk.js.map": "/sangeet_musicapp/static/js/787.658bc779.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.684e85e6.css",
+    "static/css/main.230d9942.css",
     "static/js/main.be6aedd8.js"
   ]
 }
